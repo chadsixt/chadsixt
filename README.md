@@ -59,7 +59,7 @@ Some of the projects I'm exploring and developing include:
 
 ## 📫 Connect with me
 
-* **LinkedIn:** [Jonathan Chad Sixt](https://www.linkedin.com/in/jonathan-chad-sixt-55900823/)
+* **LinkedIn:** [Jonathan Chad Sixt](https://www.linkedin.com/in/jonathan-chad-sixt-ph-d-m-sc-55900823/)
 * **GitHub:** [@chadsixt](https://github.com/chadsixt)
 * **Website:** [chadsixt.com](https://chadsixt.com)
 * **Sixt Holdings:** [sixtholdings.com](https://sixtholdings.com)
