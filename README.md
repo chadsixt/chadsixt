@@ -1,4 +1,4 @@
-# Hi, I'm Chad Sixt 👋
+# Hi, I'm Jonathan Chad Sixt 👋
 
 I'm a **software engineering leader, architect, data engineer, researcher, and educator** with experience across defense, medical devices, analytics, AI, and academia.
 
